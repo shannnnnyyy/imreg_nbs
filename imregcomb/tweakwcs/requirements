@@ -1,0 +1,5 @@
+numpy==1.14
+astropy==3.0.4
+stsci.tools==3.4.13
+scipy==1.1.0
+git+git://github.com/spacetelescope/tweakwcs@7dbfff7#egg=tweakwcs  
