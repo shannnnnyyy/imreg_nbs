@@ -10,4 +10,4 @@ Once you've done this, ``git add`` and ``git commit``.  *NEVER COMMIT A NOTEBOOK
 
 ## Test-running notebooks
 
-To execute your notebook and see it rendered as a web page, go to the root of this repo (where the README is) and do ``python convert.py``
+To execute your notebook and see it rendered as a web page, go to the root of this repo (where the README is) and do ``python convert.py``.  Then open up the generated index.html and follow it to your notebook.
