@@ -2,3 +2,4 @@
 IPython-*
 *.pyc
 exec*.ipynb
+*.html
